@@ -460,15 +460,16 @@ only screen and (-webkit-min-device-pixel-ratio: 2) {
 
 div#tiy_header  a:link, div#tiy_header  a:visited, div#tiy_header  h1
 		{
-		width: 300px;
-		height: 154px;
+		display: block;
+		width: 450px;
+		height: 94px;
 		background : transparent url("icon.png")-5px -15px no-repeat;
 		/* background : transparent url("tiy-bg-retina.png")/*tpa=https://www.w3school.com.cn/ui2019/tiy-bg-retina.png-225px -450px no-repeat;*/ 
 		
 		
 		margin: 0;
 		padding: 0;
-        background-size: auto 550px;
+        background-size: auto 150px;
 		}
 
 
